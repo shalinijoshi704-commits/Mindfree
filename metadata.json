@@ -1,0 +1,6 @@
+{
+  "name": "MindEase: Teen Anxiety Check-In & Coping Lab",
+  "description": "An interactive, gamified anxiety check-in application for youth aged 12-18 featuring real-world scenarios, 4-choice CBT reframing challenges, personalized coping strategies, badges, and progress tracking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
